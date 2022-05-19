@@ -1,0 +1,23 @@
+// ===================================================================================
+//  Assignment
+//  Reflect
+// ===================================================================================
+//  Student Name  : JATIN HANS
+//  Student ID    : 141560201
+//  Student Email : jhans2@myseneca.ca
+//  Course Section: ZAA
+//  Date : 28 November 2021
+// ===================================================================================
+
+This assignment was the toughest one yet in the whole course. It takes me a very long time to understand the proper logic and concepts required. Although the first two milestones were 
+less tough and the logic was somewhat clear on how to perform the requirements. But, milestone 3 was very time-consuming and it was very difficult for me to understand its logic and 
+connect it to the previous milestones of the project. But, after a lot of debugging and try an error process, I was able to complete this long project.
+
+This project taught me many concepts, some of which are STL containers and algorithms, There were many places where I have to implement a link-list algorithm using the container.
+I also face many challenges where I have to use STL algorithms instead of basic loops, which we have learned so far. It took me a lot of practice to excel in implementing STL algorithms.
+
+Moreover; I have learned how to handle files, like reading, opening, fetching the data from a file. Furthermore, I learned many advanced level topics designed for Advanced Object-Oriented
+level programming like vectors, algorithms which are also the pillars of c++ programming.
+
+Overall, I would like to thank my professor for teaching me so well, that I was able to complete every workshop, assignment on time, and understand each topic well.
+
